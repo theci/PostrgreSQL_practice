@@ -11,7 +11,7 @@
 
     - 평균 값을 출력하면 소수점이 크게 나오기 때문에 ROUND를 써야한다.
 
-- 총 영화 교체 비용 출력
+- 총 영화 교체 비용 출력 
 
     SELECT SUM(replacement_cost)
     FROM film;
